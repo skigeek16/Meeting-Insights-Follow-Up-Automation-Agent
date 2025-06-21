@@ -4,15 +4,15 @@ This repository contains the n8n workflow for an AI-powered agent designed to au
 
 ## Table of Contents
 
-  - [Features](https://www.google.com/search?q=%23features)
-  - [How It Works](https://www.google.com/search?q=%23how-it-works)
-  - [Setup and Configuration](https://www.google.com/search?q=%23setup-and-configuration)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [n8n Workflow Setup](https://www.google.com/search?q=%23n8n-workflow-setup)
-      - [Specific Node Configurations](https://www.google.com/search?q=%23specific-node-configurations)
-  - [Use Cases](https://www.google.com/search?q=%23use-cases)
-  - [Advantages](https://www.google.com/search?q=%23advantages)
-  - [Future Enhancements](https://www.google.com/search?q=%23future-enhancements)
+* [Features](#features)
+* [How It Works](#how-it-works)
+* [Setup and Configuration](#setup-and-configuration)
+    * [Prerequisites](#prerequisites)
+    * [n8n Workflow Setup](#n8n-workflow-setup)
+    * [Specific Node Configurations](#specific-node-configurations)
+* [Use Cases](#use-cases)
+* [Advantages](#advantages)
+* [Future Enhancements](#future-enhancements)
 
 ## Features
 
