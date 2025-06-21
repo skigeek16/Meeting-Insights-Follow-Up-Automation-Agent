@@ -1,9 +1,3 @@
-# Meeting-Insights-Follow-Up-Automation-Agent
-
-Here's a comprehensive README file for your Meeting Insights & Follow-Up Automation Agent workflow, suitable for a GitHub repository. It includes all your requested points and clarifications.
-
------
-
 # Meeting Insights & Follow-Up Automation Agent
 
 This repository contains the n8n workflow for an AI-powered agent designed to automate the extraction of key insights from meeting recordings or transcripts, generate actionable follow-ups, and integrate with essential productivity tools. It transforms raw meeting data into organized, actionable intelligence, significantly reducing manual effort and improving meeting efficiency.
